@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gituserapi_/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/gituserapi_/static/js/main.dff86f53.chunk.js",
+    "main.js.map": "/gituserapi_/static/js/main.dff86f53.chunk.js.map",
+    "runtime-main.js": "/gituserapi_/static/js/runtime-main.fd475db2.js",
+    "runtime-main.js.map": "/gituserapi_/static/js/runtime-main.fd475db2.js.map",
+    "static/js/2.ef83366e.chunk.js": "/gituserapi_/static/js/2.ef83366e.chunk.js",
+    "static/js/2.ef83366e.chunk.js.map": "/gituserapi_/static/js/2.ef83366e.chunk.js.map",
+    "static/js/3.0ebe8176.chunk.js": "/gituserapi_/static/js/3.0ebe8176.chunk.js",
+    "static/js/3.0ebe8176.chunk.js.map": "/gituserapi_/static/js/3.0ebe8176.chunk.js.map",
+    "index.html": "/gituserapi_/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/gituserapi_/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ef83366e.chunk.js.LICENSE.txt": "/gituserapi_/static/js/2.ef83366e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd475db2.js",
+    "static/js/2.ef83366e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.dff86f53.chunk.js"
+  ]
+}
