@@ -2,8 +2,7 @@ import React, { useEffect, useState } from 'react'
 import Loading from './Loading'
 
 const GithubApi = () => {
-
-
+    
     const [curData, setCurData] = useState([])
     const [loading, setLoading] = useState("true")
     const getData = async () => {
