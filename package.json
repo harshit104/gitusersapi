@@ -1,8 +1,8 @@
 {
-  "name": "gitusersapi",
+  "name": "gituserapi_",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://harshit104.github.io/gitusersapi",
+  "homepage": "http://harshit104.github.io/gituserapi_",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
